@@ -1,0 +1,561 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Glamorgans negotiations and colourable commitment in Ireland demonstrated: or the Irish plot for bringing ten thousand men and arms into England, whereof three hundred to be for Prince Charls's lifeguard. Discovered in several letters taken in a packet-boat by Sir Tho: Fairfax forces at Padstow in Cornwal. Which letters were cast into the sea, and by the sea coming in, afterwards regained. And were read in the Honorable House of Commons. Together with divers other letters taken by Captain Moulton at sea near Milford-Haven coming out of Ireland, concerning the same plot and negotiation. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96907</idno>
+            <idno type="STC">Wing W3533</idno>
+            <idno type="STC">Thomason E328_9</idno>
+            <idno type="STC">ESTC R200673</idno>
+            <idno type="EEBO-CITATION">99861352</idno>
+            <idno type="PROQUEST">99861352</idno>
+            <idno type="VID">113485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113485)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E328[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Glamorgans negotiations and colourable commitment in Ireland demonstrated: or the Irish plot for bringing ten thousand men and arms into England, whereof three hundred to be for Prince Charls's lifeguard. Discovered in several letters taken in a packet-boat by Sir Tho: Fairfax forces at Padstow in Cornwal. Which letters were cast into the sea, and by the sea coming in, afterwards regained. And were read in the Honorable House of Commons. Together with divers other letters taken by Captain Moulton at sea near Milford-Haven coming out of Ireland, concerning the same plot and negotiation. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Worcester, Edward Somerset, Marquis of, 1601-1667.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>March 17. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Worcester, Edward Somerset, --  Marquis of, 1601-1667 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113485:1" rendition="simple:additions"/>
+            <p> The Earl of <hi>Glamorgans</hi> NEGOTIATIONS And colourable Commitment IN IRELAND DEMONSTRATED: OR THE <hi>IRISH</hi> PLOT For bringing Ten thouſand Men and Arms into <hi>England,</hi> whereof Three hundred to be for Prince <hi>CHARLS</hi>'s Lifeguard.</p>
+            <p>Diſcovered in ſeveral <hi>Letters</hi> taken in a Packet-boat by Sir <hi>Tho: Fairfax</hi> Forces at <hi>Padſtow</hi> in <hi>Cornwal.</hi>
+            </p>
+            <p>Which Letters were caſt into the Sea, and by the Sea coming in, afterwards regained.</p>
+            <p>And were read in the Honorable Houſe of <hi>Commons.</hi>
+            </p>
+            <p>Together with divers other LETTERS taken by Captain <hi>Moulton</hi> at Sea near <hi>Milford-Haven</hi> coming out of <hi>Ireland,</hi> concerning the ſame Plot and Negotiation.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>ORdered by the Commons aſſembled in Parliament, That theſe</hi> Letters <hi>be forthwith printed and publiſhed:</hi>
+                  </p>
+                  <closer>
+                     <signed>H: Elſynge, Cler. Parl. D. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>London: Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons. <hi>March</hi> 17. 1645.</p>
+            <pb facs="tcp:113485:2"/>
+         </div>
+         <div type="introduction">
+            <pb n="3" facs="tcp:113485:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Honorable <hi>William Lenthal</hi> Esq; Speaker of the Honorable Houſe of Commons.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Heſe incloſed Letters being brought to my hands by Divine Providence, I held it my duty to ſpeed to you, be<g ref="char:EOLhyphen"/>cauſe of the great importance of them, and to acquaint you how I came by them.</p>
+                  <p>Having ſome Dragoons at <hi>Padſtow,</hi> a Packet Boat from <hi>Ireland</hi> came into the Harbour; The Dragoons preſently endeavoured to board her; and after ſome ſmall reſiſtance, wherein the Captain and the Maſter of the Veſſel were ſlain, they entred, ſeizing upon one Captain <hi>Allen;</hi> the ſaid <hi>Allen</hi> threw a Packet and divers looſe Letters over-board, of which, onely theſe incloſed were recovered: I ſhall ſend <hi>Allen</hi> with all convenient ſpeed up to you, whoſe Examination you have alſo herewith incloſed: I finde him to be a dan<g ref="char:EOLhyphen"/>gerous and ſubtile man; I believe he has much in his breaſt which may be got out of him, by reaſon he is obnoxious as a Spye, and a man I perceive loves his life ſo well, that good uſe may be made thereof, to diſcover by further Examination what we have not opportunity to do here, but yet may be worthy of your knowledge: For it appears by ſome of the Let<g ref="char:EOLhyphen"/>ters, that he hath much intruſted by the Earl of <hi>Gla<g ref="char:EOLhyphen"/>morgan</hi> to him, to give a verbal Accompt of; I have given Captain <hi>Moulton</hi> who is upon the Iriſh Seas, advertiſement of the Enemies intentions. To ſay no
+<pb n="4" facs="tcp:113485:3"/> more, you will perceive by the Date of the E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rl of <hi>Glamorgans</hi> Letters, That he has the Honour, Truſt and Liberty of a very good and Loyal Subject. I ſup<g ref="char:EOLhyphen"/>poſe you will ſee by theſe Lette<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, what reaſon there is to haſten Recruits with effect, which I muſt withal repreſent to be the more needful, in regard of the Di<g ref="char:EOLhyphen"/>minution which cannot but attend thoſe Marches; and that hardſhip the Army has been put to in ſuch a Coun<g ref="char:EOLhyphen"/>trey and at ſuch a ſeaſon. I muſt acknowledge your proviſions for this Army to be very great, and the Comm<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tee of the Armies care, in obſerving your ap<g ref="char:EOLhyphen"/>pointments therein to be anſwerable. I deſire I may faithfully <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mprove your favours, as becomes an honeſt man to the glory of God, and your Service: And reſt</p>
+                  <closer>
+                     <dateline>
+                        <hi>Bodman</hi> 
+                        <date>March 7<g ref="char:punc">▪</g> 1645.</date>
+                     </dateline>
+                     <signed>Your moſt humble Servant, <hi>T. Fairfax.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Honorable <hi>William Lenthal</hi> Eſquire; Speaker to the Honorable Houſe of Commons.</head>
+                  <p>SIr, In my laſt; which was but yeſterday by the Poſt, I gave you an account of the Agreement made for the delivery up of Mount-Ed<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecomb, and the <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ing of the Regiments raiſed in thoſe parts, &amp; of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Mr. <hi>Coriton</hi> and divers other Gentlemen of quality, which is every day more apparent then other, by their hourly ſending to the Generall to be received into the protection of the Parliament, which is now in ſome meaſure made known to the Country, who had this day a meeting upon <hi>Bodman</hi> Downs: It was but yeſterday they had notice, and one Hundred of the four had not the notice come to them, yet about eight hundred or nine hundred appeared; And now for the occaſion the meeting was deſired, which was for this purpoſe, to let
+<pb n="5" facs="tcp:113485:3"/> them know the Army was come to protect them, not to ruine them; That the Souldiers horſe and foot had charge to defray their Quarters: That if any Souldier offered violence unto them, upon Complaint it ſhould be redreſſed: That the Gentlemen of the Country, naming ſuch and ſuch perſons, were come into the Par<g ref="char:EOLhyphen"/>liament, which did very much incourage the co<g ref="char:cmbAbbrStroke">̄</g>monalty to be the more forward to harken to what might be for the ſervice of the publique, and defence of their own County: And that which wrought the impreſſion deepeſt upon their hearts, was Mr. <hi>Peters</hi> his publiſhing to them the packets taken in the <hi>Iriſh</hi> Veſſel, which I mentioned unto you in the laſt Letter, which he not on<g ref="char:EOLhyphen"/>ly ſhewed unto them, but read the ſame, and permitted ſuch of them as deſired it to read them, and told them they ſhould have Copies of <hi>Glamorgans</hi> Articles, and his other Letters, if they deſired them, which abun<g ref="char:EOLhyphen"/>ly gave them ſatisfaction; and that which put it out of doubt was, That the ſhip and packets were ſeized on, and taken by the aſſiſtance of the Inhabitants at <hi>Padſtow</hi> within their own County but the day before: And indeed it was a very ſeaſonable and remarkable accident as could have hapned for the uniting of this County to the Parliament, for the very thoughts of <hi>Iriſh</hi> and French are hateful unto them: Thoſe Letters that were moſt conſiderable miſcarried in the water; which was the Earl of <hi>Glamorgans</hi> to the Prince, Sir <hi>Edward Hide,</hi> and to another; which Capt. <hi>Allen,</hi> an <hi>Iriſh</hi> Papiſt and Merchant of <hi>Waterford</hi> confeſſeth he had from the hands of the Earl of <hi>Glamorgan</hi> to deliver as aforeſaid: Vpon his Examination he ſaid further, That the three hundred <hi>Iriſh</hi> deſired for the Princes Lifeguard were to be thus diſpoſed, An hun<g ref="char:EOLhyphen"/>dred to be put into the Mount, an hundred to <hi>Pendennis,</hi>
+                     <pb n="6" facs="tcp:113485:4"/> and the other hundred to be a guard to the Prince: The Generall hath ſent poſt to Capt: <hi>Moulton</hi> Admirall of the <hi>Iriſh</hi> Coaſts, to give him notice in what forward<g ref="char:EOLhyphen"/>neſſe the <hi>Ir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſh</hi> were to be tranſported, That they may keep out ſhips at ſea for prevention: The Trumpet that went with the Summons to the Lord <hi>Hopton</hi> is not yet returned. To morrow early the whole Army horſe and foot advances towards Truro: All paſſes, By lanes &amp; Fords being for the moſt part barricadoed or blockt up; ſo that if the Enemy ſhould ſlip by (which we no wayes fear) their marches will be ſo ſlow, That their Rear will be ingaged before they get half through the paſſage. Before this come to your hands, without per<g ref="char:EOLhyphen"/>adventure the buſineſſe will be very near decided by a Treaty or retreate into the ſea: There came ſeven or eight of the Princes ſervants this day for paſſes to go home, much lamenting the ſudden carrying the Prince on ſhipboard when they dreamed not of it: At Foy we took thirteen pieces of Ordnance mounted, beſides Arms and powder; the firſt night the Town ſtood upon their guard, but the next morning repented of their fol<g ref="char:EOLhyphen"/>ly, &amp; without diſpute admitted our forces to come in: Be pleaſed to haſten down Monies to the Army, and match and Powder with all ſpeed to Lyme: Neither of theſe will admit of delay: And haſten recruits that they may meet us when we face about.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Bodnam,</hi> 
+                        <date>March 6. 11. at night.</date>
+                     </dateline>
+                     <signed>Your moſt humble and faithful Servant, <hi>Joh. Ruſhworth.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THe Examination of <hi>Allen</hi> is ſent up by this Bearer, who can inform you more of the carriage of the man: I hope the Bearer will come ſafe with the Letters; he is enjoyned to have great care, he comes far with ſuch a Truſt.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:113485:4"/>
+            <div n="captured by Fairfax" type="letters">
+               <div type="letter">
+                  <head>To the Prince His Highnes.</head>
+                  <opener>
+                     <salute>May it pleaſe Your Highnes,</salute>
+                  </opener>
+                  <p>SInce my coming from his Majeſty on the 14 of <hi>Octo.</hi> laſt, I have gone in ſuch untroden paths, as have not afforded me the poſſibilitie of making any addreſſe unto your Highnes, untill this opportunity which hath made me live under no ſmal affliction, leaſt my Actions ſhould have been miſrepreſented to your Highnes, and leſſen me in that good opinion of yours which I value as the greateſt bleſſing of my life. I ſhall not preſume <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o to trouble your Highneſſe with ſo tedious a Narrative, as the reaſons of my coming from the King, and the relation of my Adventures ſince muſt needs be; but I have done it at large to Sir <hi>Edward Hide,</hi> and I moſt humbly beſeech your Highneſſe to give him leave to entertain you with them at ſuch leiſure times, when he ſhall finde that you can admit of it with leaſt trouble; which that you may the more eaſily grant me, I ſhall not importune you my ſelf with any thing more at this time, then this ſincere Proteſtation, That while I have the Honour to live in Your Highneſſe thoughts; which favour, I ſhal think my ſelf above all Misfortunes, how miſerable ſoever otherwiſe, and I doubt not but your goodneſſe will by preſerving me ſo happy in your memory, encourage me in that which you cannot hinder me, from being</p>
+                  <closer>
+                     <signed>Your Highnes moſt humble and moſt faithful Servant, George Digby.</signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <pb n="8" facs="tcp:113485:5"/>
+                  <head>TO Sir <hi>EDWARD HIDE</hi> Chancellor of the Exchequer.</head>
+                  <opener>
+                     <salute>My dear Chancellor,</salute>
+                  </opener>
+                  <p>I Seize with much joy this occaſion that flatters me with the hopes of conveying ſafe unto you, and by you unto the reſt of my Friends there an Accompt of my Adventures, ſince you heard from me; theſe incloſed Papers will give you a very par<g ref="char:EOLhyphen"/>ticular relation of all matters of Fact, I make no queſtion but my unſucceſsfulneſſe in that imployment will give occaſion to my enemies to accuſe me of a great diſ-ſervice to the King, in having been the loſſe of ſo many of his horſe, not in the conduct of them (for I apprehend not malice it ſelf in that point) but in putting them upon ſo deſperate a Deſign. This point I deſire you to cleer, by letting all with whom you ſhall finde the Ob<g ref="char:EOLhyphen"/>jection, know, That although I was of opinion, that the King himſelf ought to have ventured, when he was at <hi>Welbeck,</hi> the paſſage into <hi>Scotland,</hi> in caſe there had been a certainty of my Lord of <hi>Montroſſes</hi> being on this ſide <hi>Forth,</hi> yet when that was once diverted, upon both my Intelligence and Advice, I had afterwards the leaſt ſhare of any man in the Councel of adven<g ref="char:EOLhyphen"/>turing any part of the Kings horſe upon ſo hopeleſſe a Deſign as that of <hi>Scotland</hi> was, while we were doubtful of my Lord of <hi>Montroſſes</hi> condition; but the Northern horſe being diſguſted with <hi>Gerrard,</hi> refuſed abſolutely to march back Southward to <hi>Welbeck,</hi> and ſo rather then they ſhould disband, it was thought fit to try whether they would be ingaged to adventure to <hi>Mon<g ref="char:EOLhyphen"/>troſſe,</hi> who in all his Letters had ſeemed much to reſent the neg<g ref="char:EOLhyphen"/>lect of him, in not ſending him a ſupply of horſe, aſſuring, That with the help but of 1000. he could carry through his work:
+<pb n="9" facs="tcp:113485:5"/> The Propoſition being made to Sir <hi>Marmaduke Langdale,</hi> he at firſt point-blanck refuſed it, as an undertaking which had by <hi>Gerrard</hi> and all the reſt been declared deſperate; even with all the Kings Horſe; but upon ſecond thoughts, finding that all his Horſe would disband if they were drawn Southward, he and all the Northern Gentlemen came to the King, and told Him, That if he would lay His Commands upon me to take the charge and to go along with them, they would adventure it, otherwiſe not: whereupon, I having declared my obedience to whatſoever the King ſhould impoſe upon me, His Majeſty commanded me poſitively to that charge, uſing beſides His plea<g ref="char:EOLhyphen"/>ſure, this Argument to me, That if I ſucceeded in it I ſhould reap much Honour; if not, I could incur no prejudice by fail<g ref="char:EOLhyphen"/>ing in that which was at firſt given for deſperate: and ſo at half an hours warning, having (I proteſt to God) not dreamt of the matter before, I marcht off from the Rendezvouz, with an Addition onely to the Northern Horſe, of ſuch as would vo<g ref="char:EOLhyphen"/>luntarily chuſe to go with me, which proved to be a matter of Three hundred, with which I made that progreſſe, which you will finde related in the incloſed Papers: But here I am ſure you will wonder, how I holding that place I did neer the King, and having the Honour of ſo great a part in His Truſts, eſpeci<g ref="char:EOLhyphen"/>ally at a time when he had ſcarce either Counſellor or Pen-man about Him, ſhould be put upon ſo extravagant and deſperate an imployment: To this I muſt let you know, and ſuch onely as you ſhall think fit, That though I had no thought of the preſent Action, yet the King and I had long before (that is ever ſince His Affairs were made ſo deſperate by the loſſe of <hi>Briſtol)</hi> con<g ref="char:EOLhyphen"/>cluded it moſt for his ſervice, That I ſhould abſent my ſelf from him for ſome time, in caſe I could finde a fair and honorable pre<g ref="char:EOLhyphen"/>tence for it: I believe the accidents ſince befaln at <hi>Newark</hi> with Prince <hi>Rupert</hi> and <hi>Gerrard,</hi> will have given you a light of ſome reaſons of my remove. The truth; <hi>Here follow many lines of Characters—</hi>
+                  </p>
+                  <p>Over and above theſe urging Reaſons, as to the time, upon the main of the Kings condition and mine; I found the King likely to ſuffer much by my ſtay near him, the wearineſſe of the
+<pb n="10" facs="tcp:113485:6"/> War being ſo univerſal, and the deſpair of any approvement in His condition being ſo great in all about Him, I found it al<g ref="char:EOLhyphen"/>moſt every mans opinion; <hi>Here come in more lines of Cha<g ref="char:EOLhyphen"/>racters—</hi>
+                  </p>
+                  <p>I thought it then high time to watch an opportunity of free<g ref="char:EOLhyphen"/>ing His Maj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſty from an Attendant ſo pernicious to His Honour and Intereſt; And this, my deareſt Friend, is as much as I think neceſſary to ſay unto you upon this ſubject, hoping that by your dextrous conveyance of it to His Highneſs the Prince of <hi>Wales,</hi> it will have the ſame impreſſion with him, which I cannot doubt of with you.</p>
+                  <p>Since my coming out of <hi>England,</hi> I ſtaid a moneth for a wind at the Iſle of <hi>Man,</hi> which time I cannot think miſ-ſpent, having there received great civilities from my Lord of <hi>Derby,</hi> and had the means of a particular acquaintance with his Noble Lady, whom I think one of the wiſeſt and generouſeſt perſons that I have known of her Sex: From thence, I and my company were very ſecurely conveyed hither in a light Frigot of his Lordſhips, where I found all things in a great forwardneſſe, the concluſion of which was expected within few dayes, and great Forces (as was pretended) already in a readineſſe for <hi>England</hi> under the command of the Earl of <hi>Glamorgan</hi> the Confederates great General and Favourite; but his Lordſhip being ſent for by my Lord Lieutenant and my ſelf, to confer about the wayes of diſpoſing thoſe Ayds moſt to the advantage of His Majeſties ſervice, the buſineſſes contained in the incloſed Papers brake ſorth in ſuch manner, as you will finde there ſet down, and ob<g ref="char:EOLhyphen"/>liged me to that part in the Kings Vindication, which was thought could not ſo properly be performed by any as my ſelf; you will finde the whole buſineſſe ſo fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly ſtated in the Tranſ<g ref="char:EOLhyphen"/>actions themſelves which I ſend you, and in my Letter to my Brother Secretary, that I ſhall need to ſay no more upon the ſubject, onely let me ask you, whether according to the rules of Policy I have not carryed my body ſwimmingly, who being be<g ref="char:EOLhyphen"/>fore ſo irreconciliably hated by the Puritan party, have thus ſeaſonably made my ſelf as odious with the Papiſts: well, my comfort is, that the very few honeſt men that are in the world
+<pb n="11" facs="tcp:113485:6"/> will love me the better, and whil'ſt I do the part of a man of Integrity and Honour, I am willing to truſt God with the reſt. I muſt not conclude without telling you, that if I had been brought hither by far greater misfortunes, I could not have re<g ref="char:EOLhyphen"/>pined at any thing that had given me the happineſſe of ſo parti<g ref="char:EOLhyphen"/>cular a knowledge of, and friendſhip with the Marques of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> who (if I can judge at all of men) is not onely the wiſeſt yong man, but the moſt ſteady, generous, and vertuous perſon that I have ever known. I conjure you, as you love virtue, and as you love me, who have ſo little a ſhare of it, build carefully by the diligent application upon thoſe grounds which I have laid for a friendſhip between you; for indeed, I love him ſo much, as I cannot be at reſt till we make up the Triangle equall on all ſides, to that perfection wherewith I am</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dublin,</hi> 
+                        <date>
+                           <hi>Ian.</hi> 4. 1645.</date>
+                     </dateline>
+                     <signed>Yours, George Digby.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Pray fail not to let my Father partake of what I write to you, and General</hi> Goring <hi>alſo, as far forth as you ſhall judge neceſſary.</hi>
+                     </p>
+                  </postscript>
+               </div>
+               <div type="letter">
+                  <pb n="12" facs="tcp:113485:7"/>
+                  <head>To Secretary <hi>Nicholas.</hi>
+                  </head>
+                  <opener>
+                     <salute>My good Brother,</salute>
+                  </opener>
+                  <p>YOu will receive by this diſpatch a particular accompt from my Lord Lieutenant of the ſtate of the Treaty here, and of thoſe Conditions upon which he was hopefull ſuddenly to have concluded ſuch a Peace as would have afforded His Majeſty powerful and timely ayds from this Kingdom, had not the un<g ref="char:EOLhyphen"/>fortunate madneſſe (for I can give it no other name) of my Lord of <hi>Glamorgan,</hi> and the neceſſary proceeding thereupon, caſt all things back into a poſture, as uncertain and more dangerous then ever. You will receive from my Lord Lieutenant and the Coun<g ref="char:EOLhyphen"/>cel here, a punctual relation of the matter of Fact, and it is re<g ref="char:EOLhyphen"/>ferred to me to convey unto you, and by you to His Majeſty, the Circumſtances and Reaſons of the whole proceeding againſt his Lordſhip.</p>
+                  <p>About ten dayes ſince, matters of the Treaty growing near to a concluſion, and in confidence thereof preparations being made by my Lord of <hi>Glamorgan,</hi> and the Iriſh (as they aſſured us) for the ſpeedy ſending over of three thouſand men for the relief of <hi>Cheſter,</hi> which were to be made up ten thouſand before the be<g ref="char:EOLhyphen"/>ginning of March. It was thought neceſſary that we ſhould confer with the ſaid Earl of <hi>Glamorgan</hi> and ſome of the Iriſh Commiſſioners, to the end that before my Lord Lieutenants fi<g ref="char:EOLhyphen"/>nal conſent to the Articles of the Treaty, the buſineſſe of the Kings ſupply might be reduced from diſcourſe to a certainty, and directed in the moſt advantagious way for his ſervice; to which end (we little ſuſpecting then what was ſince diſcovered) the ſaid Earl of <hi>Glamorgan</hi> and ſome of the Iriſh Commiſſioners then at <hi>Kilkenny</hi> were earneſtly invited hither both by my Lord Lieutenant and my ſelf.</p>
+                  <p>Upon Monday laſt, the day before the ſaid Earl of <hi>Glamorgan</hi> was expected in Town, my Lord Lieutenant received out of the North from an honeſt and well affected perſon, the copy which is ſent you of my Lord of <hi>Glamorgans</hi> Articles and Oath with the Confederate Catholiques, aſſured to have been found in the
+<pb n="13" facs="tcp:113485:7"/> titulary Archbiſhop of <hi>Tuams</hi> pocket, killed in October laſt at <hi>Sligo.</hi> At firſt the thing appeared ſo impoſſible, as that we were apt to think it a Forgery and Plot againſt the King of the Par<g ref="char:EOLhyphen"/>liamentary Rebells, till conſidering the circumſtances, formali<g ref="char:EOLhyphen"/>ties and punctualities thereof, we grew to apprehend ſomewhat more in the matter, and ſoon after a ſecond and third copy of the ſame coming to other perſons, all with Letters to the effect of this incloſed, it was then thought high time to take the buſi<g ref="char:EOLhyphen"/>neſſe into moſt ſerious conſideration; which being done by my Lord Lieutenant and my ſelf, aſſiſted by ſome of the wiſeſt and beſt affected perſons here, we ſoon concluded, that if theſe things were once publiſhed, and that they could be believed to be done by His Majeſties Authority, they could have no leſſe fa<g ref="char:EOLhyphen"/>tall an effect then to make all men ſo believing, conclude all the former Scandals caſt upon His Majeſty of the inciting this Iriſh Rebellion true, That he was a Papiſt, and deſigned to introduce Popery even by wayes the moſt unkingly and perfidious; And conſequently, that there would be a general revolt from him of all good Proteſtants, with whom this opinion could take place.</p>
+                  <p>Now when we conſidered the circumſtances convincing the truth of this Tranſaction on my Lord of <hi>Glamorgans</hi> part, and how impoſſible almoſt it was for any man to be ſo mad, as to en<g ref="char:EOLhyphen"/>ter into ſuch an Agreement without powers from His Majeſty, and there being ſome kinde of a formal Authority vouched in the Articles themſelves, we did alſo conclude, That probably the greateſt part of the world, who had no other knowledge of His Majeſty then by outward appearances, would believe this true, and do according to that belief, unleſſe His Majeſty were ſud<g ref="char:EOLhyphen"/>denly and eminently vindicated by thoſe who might juſtly pre<g ref="char:EOLhyphen"/>tend to know him beſt. Upon this ground it was alſo concluded by us, That leſſe then an Arreſt of the Earl of <hi>Glamorgan</hi> upon ſuſpition of High-Treaſon could not be a Vindication of His Majeſty eminent or loud enough; and that this part could not properly nor effectually be performed by any other perſon then my ſelf, both in regard of my Place and Truſts near His Maje<g ref="char:EOLhyphen"/>ſtie, That the buſineſſe of <hi>Ireland</hi> had paſs'd for the moſt part through my hands, That I attended His Majeſty about the time of the date of His Majeſties pretended Commiſſion, That ſince
+<pb n="14" facs="tcp:113485:8"/> that time I had by His Majeſties command written to the Iriſh Commiſſioners a Letter, whereof I ſend you a copy ſo Diami<g ref="char:EOLhyphen"/>trally oppoſite to the ſaid Earls Tranſactions; And laſtly, in re<g ref="char:EOLhyphen"/>gard that my Lord Lieutenant, to whom otherwiſe His Maje<g ref="char:EOLhyphen"/>ſties Vindication in this kinde might properly have belonged, was generally thought to be unworthily couſened and abuſed in the matter, in caſe there were any ſuch ſecret Authority given by His Majeſty to the Earl of <hi>Glamorgan.</hi>
+                  </p>
+                  <p>This being our unanimous judgement of what was fit to be done, and by whom, the onely Queſtion then remaining, was to the point of Time, in which we were alſo of opinion, That if it were defer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'d till the buſineſſe growing publike otherwayes, ſhould begin to work its miſchief, His Majeſties Vindication would loſe much of its force, and be thought rather applyed to the notarieting then to the impiety of the thing, and rather to the pernicious effects then to the deteſtable cauſe it ſelf: Not<g ref="char:EOLhyphen"/>withſtanding I muſt confeſſe unto you, that the conſideration of fruſtrating the ſupplies of three thouſand men, which were ſo confidently affirmed to be in readineſſe for the relief of <hi>Cheſter,</hi> in caſe the condition of that place could not bear the delay which this might occaſion, wrought in us a very great ſuſpenſion of Judgement, Whether the proceeding againſt my Lord of <hi>Glamorgan</hi> ſhould not be forborn till that ſo neceſſary ſupply were ſent away; but the caſe being more ſtrictly examined, We found, firſt, that by the Lord of <hi>Glamorgans</hi> Oath, the Forces were not to be haz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rded till His Majeſties performance of the ſaid Earls Conditions: And ſecondly, that the ſaid ſupply was never intended by my Lord of <hi>Glamorgan</hi> and the Iriſh, till the Articles of Peace were conſented to, which the Lord Lieutenant durſt in no wiſe do without a preceding Vindication of the Kings Honour, ſince this Tranſaction of my Lord of <hi>Glamorgans</hi> was known unto him, and known to be known unto him by thoſe who wanted neither Art nor Malice to make uſe of it; ſo that the neceſſary forbearance to conclude the Treaty, fruſtra<g ref="char:EOLhyphen"/>ting as much the relief of <hi>Cheſter,</hi> as the ſudden and vigorous proceeding againſt my Lord of <hi>Glamorgan</hi> could do, our Reſo<g ref="char:EOLhyphen"/>lutions did in the end determine upon that courſe; when at the inſtant to remove all Objections, Information was brought us,
+<pb n="15" facs="tcp:113485:8"/> That the thing was already publike throughout the Town, and began to work ſuch dangerous <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts, as in tru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h I do not believe that my Lord Lieutenant, or any of the Kings faithful Servants could have been many hours ſafe in the delay of this His Majeſties and their Vindication, which h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th now been ſo ſeaſonably applied, as that it hath wrought here not onely a ge<g ref="char:EOLhyphen"/>neral ſatisfaction in all moderate men; but even ſuch a conver<g ref="char:EOLhyphen"/>ſion in many leſſe well inclined, That whereas before a Peace with the Iriſh, even upon thoſe unavoidable Conditions, upon which my Lord Lieutenant muſt needs within few dayes have concluded, it would hardly have bin publiſhed in this place with<g ref="char:EOLhyphen"/>out very much danger; mens mindes are ſo ſecured and ſetled by this proceeding, as that I believe the Peace now would be em<g ref="char:EOLhyphen"/>braced upon thoſe, &amp; perhaps upon harder terms, without much mutiny or repining. This being ſo, our chief remaining fear is, leſt what hath been done againſt my Lord of <hi>Glamorgan</hi> ſhould ſo far incenſe the Iriſh, as to drive them to ſudden extremes; things here on His Majeſties part being in ſo ill a condition to enter again upon a War unto this danger, the beſt preventives we could think of are applied, This incloſed Letter written to my Lord of <hi>Muskerry</hi> by my Lord Lieutenant; Apt perſons imployed to <hi>Kilkenny,</hi> to acquaint them with the reaſons and neceſſities of this proceeding; And laſtly, the Articles of Peace ſent unto them with my Lord Lieutenants aſſent, in the very terms propoſed, and acquieſt in by themſelves in the laſt reſults of this long Treaty; which in all probability will have one of theſe two effects, either to make them conclude a Peace (not<g ref="char:EOLhyphen"/>withſtanding this in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ervening accident) whereby <hi>Cheſter</hi> may be ſpeedily relieved, and His Majeſty further ſupplied this Spring, or make it break ſo foully on their ſide, as to divide from them the moſt conſiderable of their party. Whatever the event be, my Lord Lieutenant and I ſhall comfort our ſelves with this ſatisfaction, That we have done what belong'd to men of Honour, faithful to their King, and to their Religion, and as wiſely as ours and our friends beſt underſtandings could di<g ref="char:EOLhyphen"/>rect us, leaving the reſt to God Almighty, whom we beſeech (<note n="*" place="margin">Some ſuch words ſhould be ſupplyed to make it ſence, though they be not in the Original.</note> 
+                     <hi>to direct)</hi> His Majeſty to that courſe herein on His part, which may be correſpondent to our faithful endeavours; and
+<pb n="16" facs="tcp:113485:9"/> that he will bleſſe them with as good effects upon the mindes of all honeſt men, towards his Majeſties Vindication in that King<g ref="char:EOLhyphen"/>dom, as I make no doubt but what we have done wil have in this, when ſeconded and purſued by thoſe further directions from his Majeſty, which I am ſure His own Wiſdom and Princely Indig<g ref="char:EOLhyphen"/>nation to finde His Honour, Conſcience, and Piety thus infa<g ref="char:EOLhyphen"/>mouſly traduced, will dictate unto Him without further advice from</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dublin,</hi> 
+                        <date>Jan. 4. 1645.</date>
+                     </dateline>
+                     <signed>Your</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>I</hi> Believe you will be as much ſtartled as I was to finde the Signet mentioned in my Lord of <hi>Glamorgans</hi> Tranſaction; but it ſeems that was miſtaken; and that he now pretends to ſome kinde of Authority under the Kings Pocket-Seal, which I certainly believe to be as falſe, as I know the other.</p>
+                  </postscript>
+               </div>
+               <div n="concluded by Glamorgan" type="treaties">
+                  <pb n="17" facs="tcp:113485:9"/>
+                  <head>
+                     <hi>Articles of agreement made and concluded between the Right Honourable</hi> Edw. <hi>Earle of</hi> Gla<g ref="char:EOLhyphen"/>morgan, <hi>in purſuance, and by vertue of his Maje<g ref="char:EOLhyphen"/>ſties</hi> 
+                     <note place="margin">
+                        <hi>This is the true Copy of the Articles ſent by the Lord</hi> George Digby, <hi>to Se<g ref="char:EOLhyphen"/>cretary</hi> Ni<g ref="char:EOLhyphen"/>cholas, <hi>to be by him com<g ref="char:EOLhyphen"/>municated to his Maje<g ref="char:EOLhyphen"/>ſty.</hi>
+                     </note> 
+                     <hi>Authority under His Signet and Royall ſig<g ref="char:EOLhyphen"/>nature, bearing date at</hi> Oxon <hi>the twelfth day of</hi> March, <hi>in the 20th yeare of his Raigne, For, and on the behalfe of his moſt Excellent Majeſtie of the one part, and the Right Honourable</hi> Richard, <hi>Lord Viſcount</hi> Mountgarret, <hi>Lord Preſident of the ſu<g ref="char:EOLhyphen"/>preme Councell of the Confederate Catholiques of</hi> Ireland, Donog. <hi>Lord Viſcount</hi> Muskery; Alex<g ref="char:EOLhyphen"/>ander, <hi>Mac</hi> Donnell, <hi>&amp;</hi> Nicholas Plunket, <hi>Eſquires; Sir</hi> Robert Talbot, <hi>Baronet;</hi> Dormet o Brian, John Dillon, Patrick Darcy, <hi>&amp;</hi> Jeffrey Browne, <hi>Eſquires, for and on the behalfe of his Majeſties Roman Catholique ſubjects, and the Catholique Clergy of</hi> Ireland <hi>of the other part.</hi>
+                  </head>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>
+                           <hi>
+                              <seg rend="decorInit">I</seg>Mprimis,</hi> The ſaid Earle doth grant, con<g ref="char:EOLhyphen"/>clude and agreee on the behalfe of his Majeſtie, his Heires and Succeſſours, to and with the ſaid <hi>Rich.</hi> Lord Viſcount <hi>Mountgarret,</hi> Donnog. Lord Viſcount <hi>Muskery, Alex. Mac Donnell,</hi> and <hi>Ni<g ref="char:EOLhyphen"/>cholas Plunket,</hi> Eſquires; Sir <hi>Robert Talbot,</hi> Baronet; <hi>Dormet ô Brian, Jo. Dillon, Patr. Darcy,</hi> and <hi>Jeffrey Browne,</hi> Eſquires, that the Roman Catholique Clergie of the ſaid Kingdome, ſhall and may from hence-forth for ever, hold and
+<pb n="18" facs="tcp:113485:10"/> enjoy all and every ſuch Lands, Tenements, Tithes and Heredi<g ref="char:EOLhyphen"/>taments whatſoever by them reſpectively enjoyed within this Kingdome, or by them poſſeſſed at any time ſince the twenty three of <hi>October</hi> 1641. and to all other ſuch Lands, Tenements, Tithes, and Hereditaments belonging to the Clergie within this Kingdome, other then ſuch as are now actually enjoyed by his Majeſties Proteſtant Clergie.</p>
+                        <p>
+                           <hi>Item,</hi> It is granted, concluded, and agreed on by the ſaid <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> Lord Viſcount <hi>Mountgarrer, Donnog.</hi> Lord Viſcount <hi>Muskery, Alex. Mac Donnell,</hi> and <hi>Nicholas Plunket,</hi> Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Talbot, Dormett ô Brian, Jo. Dillon, Patr. Darcy,</hi> and <hi>Jeffrey Browne,</hi> on the behalfe of the Confederate Roman Ca<g ref="char:EOLhyphen"/>tholiques of <hi>Ireland,</hi> that two parts in three parts to be divided, of all the ſaid Lands, Tithes, and Hereditaments whatſoever mentioned in the precedent Article, ſhall for three yeares next enſuing, the Feaſt of Eaſter, which ſhall bee in the yeare of our Lord God one thouſand ſix hundred forty ſix, bee diſpoſed of and converted for and to the uſe of his Majeſties Forces em<g ref="char:EOLhyphen"/>ployed, or to be employed in His ſervice, and the other third part to the uſe of the ſaid Clergy reſpectively; And ſo the like diſpo<g ref="char:EOLhyphen"/>ſition to be renewed from three yeares to three yeares by the ſaid Clergy during the warres.</p>
+                        <p>
+                           <hi>Item,</hi> It is accorded and agreed by the ſaid Earle of <hi>Glamor<g ref="char:EOLhyphen"/>gan,</hi> for and in the behalfe of his Majestie, his Heires and Succeſſors, that his Excellency, the Lord Marqueſſe of <hi>Ormond,</hi> Lord Lievtenant of <hi>Ireland,</hi> or any other or others authorized, or to be authorized by his Majeſtie, ſhall not diſturbe the Pro<g ref="char:EOLhyphen"/>feſſors of the Roman Catholique Religion in the preſent poſſeſſion, and continuance of the poſſeſſion of their Churches, Lands, Tenements, Tithes, Hereditaments<g ref="char:punc">▪</g> Juriſdiction, or any other the matters aforeſaid in theſe Articles agreed and condeſcended to by the ſaid Earle, untill his Majeſties pleaſure bee ſignified for confirming and publiſhing the Graunts herein Articled for, and condeſcended unto by the ſaid Earle.</p>
+                        <p>
+                           <hi>Item,</hi> It is accorded and agreed by the ſayd Earle, for and in the behalfe of his Majeſtie, his Heires and Succeſſours, that an Act ſhall bee paſſed in the next Parliament, to bee held in this
+<pb n="19" facs="tcp:113485:10"/> Kingdome, according to the tenor of ſuch agreement, or conceſſi<g ref="char:EOLhyphen"/>ons as herein are expreſſed: and in the meane time, the ſaid Cler<g ref="char:EOLhyphen"/>gie ſhall enjoy the full benefit, freedome, and advantage of the ſaid agreements and conceſſions, and every of them. And the Earle of <hi>Glamorgan</hi> doth hereby engage his Majeſties Royall word and publike faith unto the ſaid Lord Viſcount <hi>Mountgar<g ref="char:EOLhyphen"/>ret,</hi> and the reſt of the ſaid Commiſſioners, for the due obſervati<g ref="char:EOLhyphen"/>on and performance of all and every the Articles, Agreements, and Conceſſions herein mentioned to be performed to the ſaid Ro<g ref="char:EOLhyphen"/>man Catholique Clergie, and every of them. In witneſſe where<g ref="char:EOLhyphen"/>of the parties to theſe preſents have hereunto interchangeably put their hands and ſeales the 25. of <hi>Auguſt, Anno Dom.</hi> 1645.</p>
+                        <closer>
+                           <signed>Glamorgan.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Signed. Sealed, and delivered in the preſence of <hi>John Summerſet, Jeffrey Browne,</hi> and <hi>Robert Barry,</hi>
+                           </p>
+                        </postscript>
+                     </body>
+                  </floatingText>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>VVHereas in theſe Articles touching the Clergies li<g ref="char:EOLhyphen"/>vings, the Right Honourable, the Earle of <hi>Glamor<g ref="char:EOLhyphen"/>gan</hi> is obliged in his Majeſties behalfe, to ſecure the Conceſſi<g ref="char:EOLhyphen"/>ons in theſe Articles by Act of Parliament; We holding that manner of ſecuring theſe Graunts as to the Clergies livings, to prove more difficult and prejudiciall to his Majeſtie, then by doing thereof, and ſecuring theſe Conceſſions, otherwiſe as to the ſaid Livings, the ſaid Earle undertaking, and promiſing in the behalfe of his Majeſtie, his Heires and Succeſſors, as here<g ref="char:EOLhyphen"/>by he doth undertake, to ſettle the ſaid Conceſſions, and ſecure them to the Clergie, and their reſpective ſucceſſours, as ano<g ref="char:EOLhyphen"/>ther ſecure way, other then by Parliament at preſent, till a fit opportunity be offred for ſecuring the ſame, doe agree and con<g ref="char:EOLhyphen"/>deſcend thereunto. And this inſtrument by his Lordſhip ſigned, was before the perfection thereof intended to that pur<g ref="char:EOLhyphen"/>poſe, as to the ſaid Livings; to which purpoſe we have mutu<g ref="char:EOLhyphen"/>ally Signed this Endorſment. And it is further intended that the Catholique Clergie ſhall not bee interrupted by Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="20" facs="tcp:113485:11"/> or otherwiſe, as to the ſaid livings, contrary to the meaning of theſe Articles.</p>
+                        <closer>
+                           <signed>Glamorgan.</signed>
+                        </closer>
+                        <postscript>
+                           <p>
+                              <hi>Copia vera collata fideliter cum Origin.</hi> Tho. Caſhell, F. Patricius, Waterford <hi>&amp;</hi> Liſmor.</p>
+                        </postscript>
+                     </body>
+                  </floatingText>
+                  <p>
+                     <hi>VVHereas much time hath been ſpent in Meetings and Debates betwixt his Excellencie</hi> Ja. <hi>Lord Mar<g ref="char:EOLhyphen"/>queſſe of</hi> Ormond, <hi>Lord Lievtenant, and Generall, Governour of his Majeſties Kingdome of</hi> Ireland, <hi>Commiſſioner to his moſt Excellent Majeſty,</hi> CHARLES, <hi>by the Grace of God, King of Great</hi> Britaine, France <hi>and</hi> Ireland <hi>&amp;c. for the Trea<g ref="char:EOLhyphen"/>ting and Concluding of a Peace in the ſaid Kingdome: of his Majeſties humble and loyall Subjects, the Confederate Ro<g ref="char:EOLhyphen"/>man Catholiques of the ſaid Kingdome of</hi> Ireland, <hi>of the one part, and the Right Honourable</hi> Donnog. <hi>Lord Viſcount</hi> Muskery, <hi>and other Commiſſioners deputed and Authorized by the ſaid Conſederate Roman Catholique ſubjects of the other part; And thereupon many difficulties did ariſe, by occa<g ref="char:EOLhyphen"/>ſion whereof, ſundry matters of great weight and conſe<g ref="char:EOLhyphen"/>quence neceſſarily requiſite to be condeſcended unto by his Ma<g ref="char:EOLhyphen"/>jeſties ſaid Commiſſioner, for the ſafety of the ſaid Confederate Roman Catholiques were not hitherto agreed upon, which re<g ref="char:EOLhyphen"/>tarded, and doth as yet retard the Concluſion of a firme Peace and ſettlement in the ſaid Kingdome. And whereas the Right Honourable</hi> Edward <hi>Earle of</hi> Glamorgan, <hi>is intruſted and Authorized by his moſt Excellent Majeſty to Grant and aſſure to the ſaid Confederate Roman Catholique ſubjects farther graces and favours which the ſaid Lord Lievtenant did not, as yet, in that latitude as they expected grant unto them. And the ſaid Earle having ſeriouſly conſidered of all matters, and due circumſtances of the great Affaires now in agitation which is the peace and quiet of the ſaid Kingdome, and the impor<g ref="char:EOLhyphen"/>tance thereof in order to his Majeſties ſervice, and in relation to a Peace and ſettlement in his other Kingdomes, and here upon the place having ſeene the ardent deſire of the ſaid Ca<g ref="char:EOLhyphen"/>tholiques</hi>
+                     <pb n="21" facs="tcp:113485:11"/> 
+                     <hi>to aſſiſt his Majeſtie againſt all that doe, or ſhall op<g ref="char:EOLhyphen"/>poſe his Royall Right or Monarchique Government, and ha<g ref="char:EOLhyphen"/>ving diſcerned the alacrity and cheerefulneſſe of the ſaid Ro<g ref="char:EOLhyphen"/>man Catholiques to embrace honourable Conditions of Peace, which may preſerve their Religion, and other juſt Intereſts; In purſuance thereof in the twentieth of His Raigne, granted unto the ſaid Earle of</hi> Glamorgan, <hi>the tenour whereof is as followeth,</hi> viz. <hi>CHARLES R. Charles</hi> by the Grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defendor of the Faith, &amp;c. To Our Right Truſty and well-beloved Couſin, <hi>Edw.</hi> Earle of <hi>Glamorgan</hi> Greeting. <hi>Wee repoſing great and eſpeciall truſt and confidence in your approved wiſedome and fidelity, doe by theſe (as firmly as under Our Great Seale, to all intents and purpoſes) Authorize and give conclude you power to Treat and conclude with the Confederate Roman Catholiques in our Kingdome of</hi> Ireland, <hi>if upon neceſſitie any thing be to be condeſcended unto, wherein Our Lord Lievtenant cannot ſo well be ſeen in, as not fit for us at this preſent publickly to owne, and therefore we charge you to proceed according to this our Warrant, with all poſſible ſecreſie; And for whatſoe<g ref="char:EOLhyphen"/>ver yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhall engage your ſelfe, upon ſuch valuable conſidera<g ref="char:EOLhyphen"/>tions, as you in your judgement ſhall deeme fit, Wee promiſe in the word of a King, and a Chriſtian, to ratifie and performe the ſame that ſhall be granted by you and under your hand &amp; ſeale<g ref="char:punc">▪</g> the ſaid Confederate Catholiques, having by their ſup<g ref="char:EOLhyphen"/>plyes teſtified their zeale to Our ſervice: And this ſhall bee in each particular to you a ſufficient warrant. Given at Our Court at</hi> Oxon, <hi>under Our Signet, and Royall Signature the twelfth day of</hi> March, <hi>in the twentieth yeare of our Raigne,</hi> 1644. To Our Right Truſty and well-beloved Couſin <hi>Edward</hi> Earle of <hi>Glamorgan. It is therefore granted, accorded, and agreed, by and betweene the ſaid Earle of</hi> Glamorgan, <hi>for and on the behalfe of his moſt Excellent Majeſty, his Heires and Succeſſors on the one part, and the Right Honourable,</hi> Richard <hi>Lord Viſcount</hi> Mountgarret, <hi>Lord Preſident, of the ſupreame Councell of the ſaid Confederate Catholiques, and the ſaid</hi> Donnog, <hi>Lord Viſcount</hi> Muskery, Alex. Mac Donnell, <hi>and</hi>
+                     <pb n="22" facs="tcp:113485:12"/> Nich. Plunket, <hi>Eſquires; Sir</hi> Robert Talbot, <hi>Baronet;</hi> Dormet ô Brian, Jo. Dillon; P<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>r. Darcy, <hi>and</hi> Jeffrey B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owne. <hi>Eſquires; Commiſſioners in that behalfe appointed, by the ſaid Confe<g ref="char:EOLhyphen"/>derate Roman Catholique ſubjects of</hi> Ireland, <hi>for and in the behalfe of the ſaid Confederate Roman Catholiques of the other part, in manner following, that is to ſay,</hi>
+                  </p>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>
+                           <hi>Imprimis,</hi> It is agreed, accorded, and granted by the ſaid Earle, for, and on the behalfe of his moſt Excellent Majeſty, his Heires and Succeſſours, That all and every of the profeſſors of the Roman Catholike Religion in this Kingdome of <hi>Ireland,</hi> of what ever eſtate, degree or quality ſoever he or they be or ſhall be, ſhall for ever hereafter have and enjoy within the ſaid Kingdome, the free and publike uſe and exerciſe of the ſayd Roman Catho<g ref="char:EOLhyphen"/>lique Religion, and of the reſpective functions therein.</p>
+                        <p>
+                           <hi>Item,</hi> it is granted, accorded, and agreed by the ſaid Earle, for, and on the behalfe of his Majeſty, his Heires and Succeſſours, That the ſayd Profeſſours of Roman Catholique Religion ſhall hold and enjoy, all and every of the Churches by them enjoyed within this Kingdome, or by them poſſeſſed at any time ſince the 23. of <hi>October</hi> 1641. and all other Churches in the ſaid King<g ref="char:EOLhyphen"/>dome, other then ſuch as are now actually enjoyed by his Maje<g ref="char:EOLhyphen"/>ſties Proteſtant ſubjects.</p>
+                        <p>
+                           <hi>Item,</hi> it is granted, accorded, and agreed by the ſaid Earle, for, and on the behalfe of his moſt Excellent Majeſty, his Heires and Succeſſors, That all and every of the Catholique ſubjects of <hi>Ireland,</hi> of what ſtate and condition, degree or quality ſoever, ſhall be free and exempt from the Iuriſdiction of the Proteſtant Clergy, and every of them, and that the Catholique Roman Cler<g ref="char:EOLhyphen"/>gy of this Kingdome, ſhall not be puniſhed, troubled or moleſted for the exerciſe of their Juriſdiction over their reſpective Catho<g ref="char:EOLhyphen"/>lique flocks in matters ſpirituall and Eccleſiaſticall.</p>
+                        <p>
+                           <hi>Item,</hi> It is further accorded, granted, and agreed by the ſaid Earle, for, and on the behalfe of his moſt Excellent Majeſty, his Heires and Succeſſors, That an Act ſhall be paſſed in the next Parliament to be held in this Kingdome; the tenour and purport wherof ſhall be as followeth, viz. An Act for the relief of his Ma<g ref="char:EOLhyphen"/>jeſties Catholique ſubjects of his Highneſſe Kingdome of <hi>Ireland.</hi>
+                           <pb n="23" facs="tcp:113485:12"/> Whereas by an Act made in Parliament held at <hi>Dublin,</hi> in the ſecond yeare of the Raigne of the late Queene <hi>Elizabeth,</hi> intitu<g ref="char:EOLhyphen"/>led, An Act for reſtoring to the Crown the antient Juriſdiction over the ſtate Eccleſiaſticall and Spirituall, and aboliſh all For<g ref="char:EOLhyphen"/>raigne power repugnant to the ſame, And by another Statute made in the ſaid laſt mentioned Parliament, intituled, An Act for the uniformity of Common Prayer and Service in the Church, and the Adminiſtration of the Sacraments, ſundry mulcts, penalties, reſtraints, and incapacities are and have been layd upon the pro<g ref="char:EOLhyphen"/>feſſors of the Roman Catholique religion in this Kingdome, in and for, and concerning the uſe, profeſſion, and exerciſe of their Reli<g ref="char:EOLhyphen"/>gion, and their functions therein, to the great prejudice, trouble, and diſquiet of the Roman Catholiques in their Liberties and eſtates, to the generall diſturbance of the whole Kingdome; For remedy whereof, and for the better ſettling, increaſe, and continu<g ref="char:EOLhyphen"/>ance of the peace, unity, and tranquillity of this Kingdome of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> his Majeſty at the humble ſuit and requeſt of the Lords and Commons in this preſent Parliament aſſembled, is graciouſly pleaſed, that it may be enacted, and bee it enacted by the Kings moſt Excellent Majeſty, the Lords ſpirituall and temporall, and Commons in this preſent Parliament aſſembled, and by authority of the ſame, that from, of, and after the firſt day of this Seſſion of Parliament, it ſhall and may be lawfull to, and for all the Pro<g ref="char:EOLhyphen"/>feſſors of the Roman Catholique Religion, of what degree, conditi<g ref="char:EOLhyphen"/>on or quality ſoever, to have and enjoy the free and publike exer<g ref="char:EOLhyphen"/>ciſe and profeſſion of the ſaid Roman Catholique Religion, and of their ſeverall and reſpective functions therein, without incurring any mulct and penalty whatſoever, or being ſubject to any reſtraint or incapacity concerning the ſame, any Article, Clauſe, ſentence, or proviſion in the ſaid laſt mentioned Acts of Parliament, or in any other Act or Acts of Parliament, Ordinances, Law or uſage to the contrary in any wiſe notwithſtanding. And be it alſo further enacted, that neither the ſaid Statutes, or any other Statute, Act, or Ordinance heretofore made in your Majeſties Raigne, or in any the Raigne of any of your Highneſſe moſt noble Progenitors or Anceſtors and now of force in this Kingdome, nor all, nor any Branch, Article, Clauſe, and ſentence in them, or any of them
+<pb n="24" facs="tcp:113485:13"/> contained and expreſſed ſhall be of force and validity in this Realme, to extend to be conſtrued or adjudged to extend in any wiſe to enquiet, prejudice, vexe or moleſt the profeſſors of the ſaid Ro<g ref="char:EOLhyphen"/>man Catholique Religion, in their perſons, lands, hereditaments, or goods, for any thing, matter, or cauſe whatſoever touching, and concerning the free and publique uſe, exerciſe and enjoying of their ſayd Religion, function, and profeſſion. And be it alſo further e<g ref="char:EOLhyphen"/>nacted and declared by the authority aforeſaid that your Maje<g ref="char:EOLhyphen"/>ſties Roman Catholique Subjects in the ſaid Realme of <hi>Ireland</hi> from the firſt day of this ſeſſion of Parliament ſhall be and be taken de<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>ed, and adjudged capable of all offices of truſt, and advance<g ref="char:EOLhyphen"/>ment places, degrees &amp; dignit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es and preferments whatſoever with<g ref="char:EOLhyphen"/>in your ſaid Realme of <hi>Ireland,</hi> any Act Statute, <g ref="char:V">Ʋ</g>ſage or Law, to the contrary notwithſtanding. And that other Acts ſhall be paſſed in the ſaid Parliament, according to the tenor of ſuch agreement or conceſſions as herein are expreſſed, and that in the meane time the ſaid Roman Catholique Subjects, and every of them ſhall en<g ref="char:EOLhyphen"/>joy the full freedome, benefit and advantage of the ſaid agreement or conceſſions and of every of them.</p>
+                        <p>
+                           <hi>Item</hi> It is accorded granted and agreed by the ſaid Earle, For and on the behalfe of his Majeſty, his Heires and Succeſſors, That his Ex. the Lord Marques of <hi>Ormond</hi> Lord Livetenant of <hi>Ireland</hi> or any other or others authorized by his Majeſty ſhall not diſturbe the Profeſſors of the Roman Catholique Religion in their preſent poſeſſion, and continuance of the poſeſſion of their ſaid Chur<g ref="char:EOLhyphen"/>ches, Juriſdiction or any other the matters aforeſaid in theſe Ar<g ref="char:EOLhyphen"/>ticles agreed and conſented unto by the ſaid E. untill his Majeſties pleaſure be ſignified for confirming and publiſhing the grounds and Agreements hereby articled for, and condiſcended unto by the ſaid Earle. And the ſaid Earle of <hi>Glamorgan</hi> doth hereby ingage his Majeſties Royall and publique Faith unto all and ſingular the profeſſors of the ſaid Roman Catholique Religion within the ſaid Kingdome of <hi>Ireland,</hi> for the due obſervance and performance of all and every the Articles, Grounds and Clauſes, herein contain<g ref="char:EOLhyphen"/>ed, and the Conſceſſions herein mentioned to be performed to them.</p>
+                        <p>
+                           <hi>Item</hi> It is accorded and agreed that the publique Faith of the kingdom ſhal be engaged unto the ſaid Earl by the ſaid confederate Catholiques
+<pb n="25" facs="tcp:113485:13"/> for ſending 10000. men to ſerve his Majeſty by order and publique Declaration of the generall aſſembly now ſitting: and the ſupreame Councell of the ſaid Confederate Catholiques, ſhall engage themſelves to bring the ſaid number of men armed the one halfe with musketts, and the other halfe with Pikes unto any Port within this realme at the election of the ſaid Earle, and at ſuch time as he ſhall appoint to be by him ſhipped and tranſpor<g ref="char:EOLhyphen"/>ted to ſerve his Majeſty in <hi>England, Wales,</hi> or <hi>Scotland,</hi> under the Command of the ſaid Earle of <hi>Glamorgan,</hi> as Lord Generall of the ſaid army: which army is to be kept together in one entire bo<g ref="char:EOLhyphen"/>dy, and all other the ſaid Officers and Commanders of the ſaid ar<g ref="char:EOLhyphen"/>my are to be named by the ſupreame Councell of the ſaid Confe<g ref="char:EOLhyphen"/>derate Catholiques, or by ſuch others as the ſeverall aſſembly of the ſaid Confederate Catholiques of this Kingdome ſhall entruſt there<g ref="char:EOLhyphen"/>with. In witnes whereof the parties of theſe preſents have hereunto enterchangeably put their hands and ſeales the 25. Day of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> 1645.</p>
+                        <closer>
+                           <signed>Glamorgan.</signed>
+                        </closer>
+                        <postscript>
+                           <p>
+                              <hi>Copia vera collata fideliter originali</hi> Thomas Caſhell. F Partricius Waterford <hi>&amp;</hi> Liſmore.</p>
+                        </postscript>
+                     </body>
+                  </floatingText>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>I <hi>Edward</hi> Earle of <hi>Glamorgan</hi> doe proteſt and ſweare faith<g ref="char:EOLhyphen"/>fully to acquaint the Kings moſt excellent Majeſty with the proceedings of this Kingdome, in order to his ſervice and to the endeerement of this Nation, and punctuall performance of what I have (as authorized by his Majeſty) obliged my ſelfe to ſee performed. And in default not to permit the army intruſted to my charge to adventure it ſelfe or any conſiderable part thereof, untill conditions from his Majeſty, and by his Majeſty be performed.</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Sept.</hi> 3. 1645.</date>
+                           </dateline>
+                           <signed>Glamorgan.</signed>
+                        </closer>
+                        <postscript>
+                           <p>
+                              <hi>Copia vera concordans de verbo &amp; verbis cum originali.</hi> Tho: Caſhell.</p>
+                        </postscript>
+                     </body>
+                  </floatingText>
+               </div>
+               <div type="letter">
+                  <pb n="26" facs="tcp:113485:14"/>
+                  <head>To the Lord <hi>Hopton.</hi>
+                  </head>
+                  <opener>
+                     <salute>My Noble Lord</salute>
+                  </opener>
+                  <p>IF the report of the many difficulties wherewith I have ſtrugled in compaſſing my deſignes for his Majeſties ſer<g ref="char:EOLhyphen"/>vie, have not before this reached you, a faithfull Relation of the whole will be made to you by the bearer hereof Cap<g ref="char:EOLhyphen"/>taine <hi>Allen,</hi> whom I deſire your Lordſhip to preſent unto the Prince His Highnes as an honeſt man, and one that pro<g ref="char:EOLhyphen"/>poſeth a courſe for Intelligence to paſſe between this Country and his Majeſties Quarters, whereof there is great need: Now (God be thanked) the buſineſſe is brought to that upſhot, that the ten thouſand men are deſigned for his Majeſties ſervice, ſixe thouſand whereof are ready for Tranſportation: The means for which are wanting, unleſſe your Lordſhip will pleaſe to ſolicite his Highnes the Prince for tranſmitting what ſhiping thoſe parts are furniſhed with, that all poſſible expedition may be uſed. We heare (God be thanked) that as yet <hi>Cheſter</hi> holds out, to releive which the 6000. men are ready for tranſportati<g ref="char:EOLhyphen"/>on. This bearer hath intimated the Princes deſire for haveing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>00 men hence for his highnes Lifguard, which may be tranſpor<g ref="char:EOLhyphen"/>ted to his highnes by the returne of ſuch ſhiping as ſhall be ſent hither for the aforeſaid ſervice. By his returne I deſire to learne from your Lordſhip, the Kings preſent State and being, that wee may ſhape our Deſignes accordingly, Thereby I ſhould be moſt glad to know of the Princes and your Lordſhips good ſucceſſe and proſperity, for which none can be more ſolicitous then I who am</p>
+                  <closer>
+                     <salute>My Lord</salute>
+                     <dateline>
+                        <hi>Waterford</hi> 
+                        <date>28 <hi>Feb.</hi> 1645.</date>
+                     </dateline>
+                     <signed>Your L. moſt affectionate humble ſervant <hi>Glamorgan</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <pb n="27" facs="tcp:113485:14"/>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>I Have hitherto been ſo farre from troubling you with many Letters, that I can ſcarce abſtain for excuſing this Addreſſe, But as I hope you will do me the favour, to beleeve that thoſe Ommiſſions have proceeded out of a tenderneſſe to moleſt you unneceſſarily, &amp; not out of any ſlothfulneſs in things eſſential to my duty, ſo in my own opinion I were now too much to blame, if after ſo long time, &amp; ſome late hazards, I ſhould not take this occaſion to repeat unto you the aſſurances of my moſt humble ſervice, proceeding from the due ſence I have of your goodneſſe to me, which howſoever I have bin deficient in expreſſing, as to the outward, I aſſure your Honour, I preſerve the memory in a very ſure Cabinet, as a treaſure there laid up wholly for your ſervice, when ever you ſhall thinke me worthy the tryall.</p>
+                  <p>For what concernes the affaires of this Kingdome, My Lord gives you ſo full &amp; particular an accompt thereof, that I cannot adde to your knowledge of them. Therefore I ſhall ſufficiently have obſerved the decorum of the place, and complyed with my duty too, when I ſhall have made theſe few reflections upon the generall condition of theſe parts, and eſpecially of the Engliſh Quarters, which in my judgement is very ſad, they being not onely reduced within a very narrow compaſſe of ground, but totally ruinated, the whole Countrie waſte, and unhabited, Farms and Villages burnt down to the ground, not a Garriſon of his Majeſties. 36. 45. 188. 23. 27. 58. 24. 12. 66. or any wiſe 5. 69. 11. 13. 38. 57 61. 59. 70. 37. 71. 63. 40. 6. 5. 59. 72. juſt 66. 84. 45. 36. Proviſions of all ſorts very ſcant. The Corporations: 8. 35. 55. 16. 62. and 49. 63. 46. 68. 12. 2. 49. between 36. 4. 25. 15. 63. 6. 67. 29. 87. 4. 19. 34. 58. 42. 13. 11. 6 66. 45. the 8. 16. 35. 67. 62. 51. 67. 70. 11. 29. 40. 20. 2. 15. 70. 16. 5. 31. 36. equall to either, The Army in 66. 3. 55. 40. 29. 23. 12. 2. 34. 71. 38. 10. 62. as 300. 3. 22. 11. 6. 68. 29 5. 58. 56. 37. 20. 39. above 45. 5. 35. 30. 59. 66. thouſand 27 58. 46. 2. 66. 48. 19. 40. 49. 16. 69. 12. Foot, and 66. 67. 28. 34. 2. 62. 69 Hundred horſe, Garriſons and all, and thoſe for the moſt part of 51. 52. 6. 4. 2. 3. 42. 2. 49. 71. 27. 39. 24. 26. 67. 68. 55. 56. 29. This place it ſelfe in a man<g ref="char:EOLhyphen"/>ner
+<pb n="28" facs="tcp:113485:15"/> Blockt up by the Parliament Shipps, riding continually without it, and no leſſe pincht at land by the Iriſh Quartered within a very few miles of it, This condition of his Majeſties Quarters here, compared with that of the Iriſh, contrary to i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> almoſt in every reſpect, may ſeeme unlikely upon any condi<g ref="char:EOLhyphen"/>tions offered hitherto, to further ſuch a Peace as muſt diſpoſſeſſe them of great advantages gotten by the War, and ſuch a Peace as thwarts the Ambition, and covetous deſires of all thoſe of the Long Robe, whether they be their Clergie or Laiety, and the ſway and Authority of their Nobility, the unlimited Liberty of the People. The Popes intereſt, conſiſting in being Head, not of a Militant, but tryumphant Church, and (it may be) the ſecret negotiations, which they have, and do ſtill entertain with For<g ref="char:EOLhyphen"/>raigne Princes. It is true, the duty that ſubjects owe to their Prince ſhould out-ballance all ſuch conſiderations; But I doubt, that duty is taught at <hi>Rome,</hi> with as many limitations, as at <hi>Edenborough,</hi> or in <hi>Weſtminſter</hi> it ſelfe; And as for thoſe Refle<g ref="char:EOLhyphen"/>ctions, that ſhould be made upon the future, they are not for every capacity, but for underſtanding men onely, and ſuch may (for ought appears to me to the contrary) ſee as faire and pro<g ref="char:EOLhyphen"/>miſing hopes for themſelves in our embroylements at home, as we can ſee for our advantage in their refuſall and obſtinacie; To which I may adde this further conſideration, how they will be able to ſuppreſſe Inchiquin, aſſiſted and ſupported from <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and maintain their own too, againſt the Scots, if they ſhall once have parted with 10000. of their beſt men, and with ſo many Armes, ſince it is plaine that ſithence the Ceſſation, they have made no great progreſſe againſt either of the two, with their entire ſtrength: for as for any aſſiſtance they can expect from my Lord Lievtenant it is inconſiderable, and theſe Garri<g ref="char:EOLhyphen"/>ſons muſt not bee drained for feare of Inſurrections within, where we find much wavering, and ſuch a hatred even in the Souldiers themſelves againſt the Confederates, that I can pro<g ref="char:EOLhyphen"/>miſe my ſelfe but little good from their Conjunction. Thus your Honour may ſee what probability my Lord Lievtenant, though never ſo good a Gameſter, hath of the Game in hand between the danger of war, and the difficulty of procuring an
+<pb n="29" facs="tcp:113485:15"/> uſefull, and honourable Peace for his Majeſtie by this Treaty. The proceedings whereof I leave to his Lordſhips relation, reſting</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <dateline>
+                        <hi>Dublin</hi> 
+                        <date>the 2. day of <hi>January</hi> 1645.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your Honours moſt humble, affectionate, and obliged Servant<g ref="char:punc">▪</g>
+                        </hi> John Poingdexter.</signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <head>
+                     <hi>To the Lord</hi> Culpeper.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>HAving orepaſt many Rubbs and difficulties, the long expected worke is at laſt compaſſed, which by what meanes it wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> retarded, your Lordſhip perhaps before hath learned, and will be more faithfully and amply Related by the Bearer, Captaine <hi>Bamber,</hi> whom I have employed to his Highneſſe the Prince, to give an account of the ſtate of affaires here, and in what a Miſt wee are for want of Intelligence, whereby wee might be aſcertained of the Kings and Princes Condition, which one <hi>Allen</hi> a Merchant of <hi>Waterford</hi> pro<g ref="char:EOLhyphen"/>poſeth to undertake a courſe for. And <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> his Highneſſe de<g ref="char:EOLhyphen"/>ſire, which moved for three hundred men for the Princes Life-Guard which the Iriſh party is willing ſhould bee ſent him by the returne of ſuch ſhipping as I have humbly deſired from his Highneſſe, might be ſent hither to <hi>Waterford</hi> for to waft over the men, whereof ſix thouſand are in a readineſſe for the reliefe of <hi>Cheſter</hi> (which yet wee heare holds out) and the other foure thouſand by the firſt of May are to follow. Your <note place="margin">
+                        <hi>Firſt of</hi> May.</note> Lordſhip would extreamly further the ſervice by your Re<g ref="char:EOLhyphen"/>preſenting to his Highneſſe the neceſſitie of a courſe of Intel<g ref="char:EOLhyphen"/>ligence, That we might not (as we are now) buried in igno<g ref="char:EOLhyphen"/>rance of his Majeſties and the Princes being and Condition, of which I hoped your Lordſhip will vouchſafe me ſome light, that our motion may be according thereunto, by which like<g ref="char:EOLhyphen"/>wiſe
+<pb n="30" facs="tcp:113485:16"/> to be aſſertained of your Lordſhips wellfare and happi<g ref="char:EOLhyphen"/>neſſe would be moſt wellcome newes to</p>
+                  <closer>
+                     <dateline>
+                        <hi>Waterford</hi> 
+                        <date>the 27. of Febr. 1645.</date>
+                     </dateline>
+                     <salute>My Lord,</salute>
+                     <signed>
+                        <list>
+                           <item>Your Lordſhips moſt affectionate and humble ſervant, <hi>Glamorgan.</hi>
+                           </item>
+                           <item>Lord <hi>Culpeper.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div n="captured by Moulton" type="letters">
+               <p>THeſe ſeverall Letters and papers comming from <hi>Ireland</hi> were taken at <hi>Milford Haven</hi> by Captain <hi>Moulton.</hi>
+               </p>
+               <div type="letter">
+                  <head>To the right Honourable the Lords and Commons for the Committee of the Admiralty and Cinque Ports.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>THeſe contrary winds have much againſt my deſire detai<g ref="char:EOLhyphen"/>ned me ſtill in this harbour, ſo that my entended voyage for <hi>Ireland</hi> hath not the free nor ſpeedy paſſage I wiſhed, but the firſt oppertunity of wind that offers it ſelfe ſhall be layed hold of. Yeſterday a barque that ſtole away from <hi>Dublin</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame in hither, wherein I found the encloſed Letters committed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o a paſſenger, which I ſend unto your honours to be diſpoſed of as to your honours ſhall ſeeme good: this place being bar<g ref="char:EOLhyphen"/>ren both of newes and action to produce any, makes me for<g ref="char:EOLhyphen"/>beare to give your honours any further preſent trouble ſave to aſſure that I am ever.</p>
+                  <closer>
+                     <dateline>Aboard the Lyon in <hi>Milford Ha<g ref="char:EOLhyphen"/>ven</hi> 
+                        <date>this 23. Jan. 1645.</date>
+                     </dateline>
+                     <signed>Your honours moſt affectionate humble and moſt obedient ſervant, <hi>Robert Moulton.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <pb n="31" facs="tcp:113485:16"/>
+                  <head>To Collonel Pigott.</head>
+                  <opener>
+                     <salute>Worthy Coſen,</salute>
+                  </opener>
+                  <p>I Have here encloſed ſent two Letters two the Counteſſe of <hi>Glamorgan</hi> at <hi>Ragland,</hi> her Lord being lately confined here to the Caſtle of <hi>Dublin,</hi> and leaſt her Ladiſhip may take things too much to heart theſe Letters are ſent to add ſome comfort. Both my Lord and I ſhal acknowledge our thankefullneſſe un<g ref="char:EOLhyphen"/>to you if you bee pleaſed to uſe the beſt and ſpeedieſt courſe you may for conveighing them to my Lady, you were wont to honour noble Ladyes eſpecially in diſtreſſe, and am aſſured now more then ever having the happines of enjoying ſo noble a Lady of your owne, your Father Mother and friends in <hi>Leix</hi> are all in good health, and dayly expect to heare good newes out of <hi>England<g ref="char:punc">▪</g>
+                     </hi> thus not doubting of care herein with my beſt wiſhes of happines to your ſelfe and your noble Lady, not un<g ref="char:EOLhyphen"/>mindfull of our good Friends all I remaine.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dublin</hi> 
+                        <date>
+                           <hi>this.</hi> 5. <hi>of</hi> Jan. 1645.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your aſſured loving Coſen to ſerve you,</hi> Roger Br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reton.</signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <head>To the Counteſſe of Glamorgan,</head>
+                  <opener>
+                     <salute>Madam,</salute>
+                  </opener>
+                  <p>I Preſume that ſome rumors of my Lord of <hi>Glamorgans</hi> being confined to the Caſtle of <hi>Dublin</hi> for ſome matters layd to his charge by the Lord <hi>George Digby</hi> have before this time come to your Ladiſhips hearing; I thought fit therefore by theſe few lynes to let you know that my Lord is in perfect health, hearty and very chearfull, not doubting to give a ſatis<g ref="char:EOLhyphen"/>factory anſwer to what may be layd to his charge, I have ſo
+<pb n="32" facs="tcp:113485:17"/> much confidence in your Ladiſhips accuſtomed diſcretion, that I know there needs no diſſwaſive arguments to your Ladiſhip from either greeving or taking any reports you may receive to heart to much, not doubting but his Lordſhip will ere long ſee your Ladiſhip, when you may partake of all things more fully then may be by writing. My Lord your uncle is in health at <hi>Bunraly</hi> and with him there the Earle of <hi>P.</hi> my Lord <hi>Iohn</hi> and my Lady <hi>Honora,</hi> I wiſh your honour all health and hap<g ref="char:EOLhyphen"/>pines and am.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dublin</hi> 
+                        <date>this 5. of <hi>Ian.</hi> 1645.</date>
+                     </dateline>
+                     <signed>Your Ladiſhips ſtill faithfull ſer<g ref="char:EOLhyphen"/>vant and Kinſman. <hi>Roger Brereton.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <head>Lord <hi>Herbert</hi> (pretended Earle of <hi>Gla<g ref="char:EOLhyphen"/>morgan)</hi> his Letter to his Lady.</head>
+                  <p>MY deareſt heart, I hope theſe will prevent any newes ſhal come unto you of me, ſince my co<g ref="char:cmbAbbrStroke">̄</g>mittment to the Caſtle of <hi>Dublin,</hi> To which I aſſure thee I went as cheerefully and as willingly as they could wiſh, whoſoever they were by whoſe meanes it was procured; and ſhould as unwillingly goe foorth, were the gates both of the Caſtle and Town open unto me, until I were cleered, as they are willing to make me unſerviceable to the King, and lay me aſide, who have procured for me this reſtraint; When I conſider thee a Woman, as I thinke, I know you are, I feare leaſt you ſhould be apprehenſive: but when I reflect that you are of the Houſe of <hi>Thomond,</hi> and that you were once pleaſed to ſay theſe words unto me, That I ſhould never, in tenderneſſe of you, deſiſt from doing, what in honour I was obliged to doe, I grow confident, that in this you will now ſhew your magnanimity, and by it the greateſt teſtimony of affection, that you can poſſibly afford me; and
+<pb n="33" facs="tcp:113485:17"/> am alſo confident, that you know me ſo well, that I need not tell you how cleare I am, and void of feare, the only effect of a good conſcience, and that I am guilty of nothing, that may teſtifie one thought of diſloyalty to his Majeſtie, or of what may ſtaine the honour of the family I come of, or ſet a Brand upon my future poſteritie. Courage (my heart) were I a<g ref="char:EOLhyphen"/>mongſt the Kings Enemies you might feare; but being only a priſoner amongſt his Friends and faithfull Subjects, you need doubt nothing, but that this cloud will be ſoone diſſipated, by the Sunne-ſhine of the King my Maſter, and did you but know how well and merry I am, you would bee as little trou<g ref="char:EOLhyphen"/>bled as my ſelfe, who have nothing that can afflict me, but leſt your apprehenſion might hurt you, eſpecially ſince all the while I could get no opportunity of ſending, nor yet by any certaine probable meanes, but by my Couſin <hi>Bruertons,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Mannerings,</hi> our Couſin <hi>Conſtable</hi> of the Caſtle, and my Lord Lievtenants leave: and I hope you and I ſhall live to ac<g ref="char:EOLhyphen"/>knowledge our obligation to them, there being nothing in this world that I deſire more, then you ſhould at leaſt heare from me; And believe it (ſweet heart) were I before th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Parlia<g ref="char:EOLhyphen"/>ment in <hi>London,</hi> I could juſtify, both the King and my ſelfe in what I have done, And ſo I pray acquaint my Father, who I know ſo cautious, that he would hardly accept a Letter from me, but yet I preſume moſt humbly to aske his bleſſing, and as heartily as I ſend mine to pretty <hi>Mall,</hi> and I hope this day or to morrow will ſet a period to my buſineſſe, to the ſhame of thoſe who have been occaſioners of it: but I muſt needs ſay from my Lord Lievtenant, and the Privie Councell here, I have received as much juſtice, nobleneſſe and favour, as I could poſſibly expect: the Circumſtances of theſe proceedings are too long to write unto you, but I am confident all will prove to my greater honour; And my Right Honourable accuſer, my Lord <hi>George Digby,</hi> will be at laſt rectified and confirmed in the good which he is pleaſed to ſay he ever had of me hi<g ref="char:EOLhyphen"/>therto, as the greateſt affliction that he ever had, did doe what his conſcience enforced him unto, and indeed did wrap up the bitter pill of the Impeachment of ſuſpition of high Treaſon
+<pb n="34" facs="tcp:113485:18"/> in ſo good words, as that I ſwallowed it, with the greateſt eaſe in the world, and it hath hither had no other operation, then that it hath purged Melancholy: for as I was not at the pre<g ref="char:EOLhyphen"/>ſent not any way diſmayed, ſo have I not ſince been any way at all diſheartened. So I pray let not any of my friends that's there, believe any thing, untill ye have the perfect relation of it from my ſelfe. And this requeſt I chiefly make unto you, to whom I remaine a moſt faithfull, and moſt paſſionately de<g ref="char:EOLhyphen"/>voted Husband and ſervant,</p>
+                  <closer>
+                     <signed>Glamorgan.</signed>
+                  </closer>
+                  <postscript>
+                     <p>Remember my ſervice to my Brother, my coſin <hi>Browne,</hi> and the reſt of my good friends.</p>
+                  </postscript>
+               </div>
+               <div type="letter">
+                  <opener>
+                     <salute>My Deare friend,</salute>
+                  </opener>
+                  <p>I Have very much to write to you concerning this place and yet know not what to write, you have heard I doe believe of the Earle of <hi>Glamorgans</hi> agreement with the Iriſh, by which hee undertooke they ſhould have all the Churches within their Quarters, and all other Churches in the Kingdome not actually poſſeſſed by the Proteſtant party, as alſo all the Lands, Tenements, Tythes, and Hereditaments belonging to the Clergie, not actually poſſeſſed by the Prote<g ref="char:EOLhyphen"/>ſtant party, and that they ſhould be free from the Juriſdiction of the Proteſtant Clergie, for which wilde undertaking my Lord <hi>Digbie</hi> accuſed him of high Treaſon, for which the Earle doth now ſtand committed in the Caſtle. What further ef<g ref="char:EOLhyphen"/>fects this will produce, I am not able to judge, but the Iriſh give out that they will Treat no further with us if that he bee not ſet at liberty, it was part of his agreement with them, that they ſhould ſend into <hi>England</hi> ten thouſand men to aſſiſt his Majeſtie, and a great part of them was ready to bee ſhipped where hee was committed, which were thereupon ſtayed;
+<pb n="35" facs="tcp:113485:18"/> Wee are in a very ſad Condition here, environed with Ene<g ref="char:EOLhyphen"/>mies of all ſides, and in a very weake poſture to defend our ſelves, but the God of <hi>Jacob</hi> will I hope be our refuge. Your Father and the reſt of your friends are in good health. I would you had knowne my thoughts, or that I were with you for ſome time to unburthen my ſelfe; God keep you and us in the middeſt of theſe ſtraights, and ſo in haſt, I reſt,</p>
+                  <closer>
+                     <dateline>
+                        <date>11. <hi>January</hi> 1645.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your aſſured loving friend,</hi> MA<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. EUSTACE.</signed>
+                  </closer>
+                  <postscript>
+                     <p>This Gentleman hath ſome buſineſſe to <hi>Briſtoll,</hi> I pray you to be favour him therein, ſome eſtate is there fallen to him, and hee is gone thither in purſuit thereof.</p>
+                     <p>My owne, and my Wives ſervice to your noble Lady.</p>
+                     <p>Superſcribed for my much honoured friend <hi>Tho. Pigget</hi> Eſquire, at <hi>Alſtowne</hi> neere <hi>Briſtoll</hi> theſe.</p>
+                  </postscript>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
